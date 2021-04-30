@@ -1,6 +1,11 @@
 # Pooled CRISPR Inverse PCR sequencing 
 
-Pooled CRISPR Inverse PCR sequencing (PCIP-seq) is a method that leverages selective cleavage of circularized DNA fragments carrying proviral DNA with a pool of CRISPR guide RNAs, followed by inverse long-range PCR and multiplexed sequencing on the Oxford Nanopore MinION platform. A detailled description of the protocol and its applications can be found at [PCIP-seq](https://www.biorxiv.org/content/10.1101/558130v2).
+Pooled CRISPR Inverse PCR sequencing (PCIP-seq) is a method that leverages selective cleavage of circularized DNA fragments carrying proviral DNA with a pool of CRISPR guide RNAs, followed by inverse long-range PCR and multiplexed sequencing on the Oxford Nanopore MinION platform. A detailled description of the protocol and its applications can be found at [PCIP-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02307-0).
+
+**Cite:**
+
+M. Artesi*, V. Hahaut*, B. Cole*, L. Lambrechts, F. Ashrafi, A. Marçais, O. Hermine, P. Griebel, N. Arsic, F. van der Meer, A. Burny, D. Bron, E. Bianchi, P. Delvenne, V. Bours, C. Charlier, M. Georges, L. Vandekerckhove, A. Van den Broeke & K. Durkin, PCIP-seq: simultaneous sequencing of integrated viral genomes and their insertion sites with long reads, Genome Biology (2021)
+
 
 <p align="center">
   <img src="WORKFLOW/PCIPSEQ.jpg">
